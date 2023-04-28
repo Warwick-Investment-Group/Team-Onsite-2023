@@ -1,0 +1,159 @@
+---
+title: "Agenda"
+---
+
+## DS Team Onsite Meeting 🎉
+
+### Monday
+
+- **🥣 8:00am-9:00am:** Team Breakfast
+  - ▫ Breakfast at Cafe Kacao, *3325 N Classen Blvd, Oklahoma City, OK 73118*
+  
+- **🕕 9:00am-9:15am:** Welcome & Check-in 
+  - ▫ Introduce the purpose and goals of the onsite meeting 
+  - ▫ Check-in: How are you? How is your Family? How is your state (Absent/Present)? Wins/Struggles?
+
+- **🕕 9:15am-10:30am:** Data as a Product, WIG DS Paradigm Shift
+  - ▫ A presentation & discussion on the proverbial debate; is data a product or a service
+  - ▫ This session will be led by Chris Buie 
+
+- **🔋 10:30am-12:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects
+
+- **🥪 12:00pm-1:00pm:** Lunch 
+  - ▫ Lunch anywhere
+  - ▫ Needing one on one time, grab a colleague and go to lunch 
+
+- **🕕 1:00pm-2:00pm:** Azure Strategy, Standards, & Best Practices 
+  - ▫ Working session to discuss and document the team's Azure strategy, standards, and best practices 
+  - ▫ This session will be a team effort, led by Chris Buie
+
+- **🔋 2:00pm-3:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects 
+
+- **🕕 3:00pm-4:00pm:** Test vs Prod Standards & Strategy
+  - ▫ Discussion on change management including CI/CD, Testing environments, UAT, Prod
+  - ▫ This session will be a team effort, led by Stuart, Nick, & Michael H.
+
+- **🔋 4:00pm-5:00pm:** Break
+  - ▫ Each team member shares an overview of their current project and any challenges they are facing 
+  - ▫ The team provides feedback and suggestions for improvement
+
+
+### Tuesday
+
+- **🕕 8:30am-9:30am:** Automate the Boring Stuff
+  - ▫ A technical discussion on strategies for scalable automation solutions
+  - ▫ Team members can share their expertise and collaborate on scalable/supportable long-term solutions
+  - ▫ This session will be a team effort led by Ivy Yun
+
+- **🔋  9:30pm-10:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects 
+
+- **🕕 10:00am-12:00pm:** Data Engineering Tooling
+  - ▫ A technical discussion on the team's data engineering tooling
+  - ▫ Team members can share their expertise and collaborate on scalable/supportable long-term solutions
+
+- **🍕 12:00pm-1:00pm:** Lunch (Pizza)
+  - ▫ Lunch at the office, *2802 W Country Club Dr, Oklahoma City, OK 73116*
+  - ▫ Human Capital Management (HCM)/Legal with MaryAlice & Brett Merritt 
+
+- **🕕 1:00pm-2:00pm:** Egen's Data Science Cloud Strategy 
+  - ▫ ML OPS Modern Cloud Architecture for modern Data Science
+  - ▫ This session will be led by Shane Burke et al.
+
+- **🕕 2:00pm-2:30pm:** Egen follow up discussion
+  - ▫ Discussion on how Egen's strategy aligns with the WIG's strategy
+  - ▫ This session will be a team effort led by Chris Buie
+
+- **🔋  2:30pm-3:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects 
+
+- **🕕 3:00pm-4:00pm:** Contemporary Methods for Data as a Service (DaaS)
+  - ▫ A team strategy session focused on contemporary methods for DaaS
+  - ▫ This session will be a team effort led by Chris Buie
+
+- **🕕 4:00pm-5:00pm:** Trash Talk (garbage in...)
+  - ▫ Strategies for ensuring data quality (data profiling, data validation, etc.) 
+  - ▫ Team members can share their expertise and collaborate on scalable/supportable long-term solutions
+  - ▫ This session will be a team effort led by Ivy Yun
+
+### Wednesday
+
+- **🕕 8:00am-9:00am:** Donuts & Databricks 
+  - ▫ Databricks, collaborative data science platform
+  - ▫ This session will be led by Chris Buie
+
+- **🕕 9:00am-9:30am:** Deepnote 
+  - ▫ Deepnote, Collaborative Data Science Platform
+  - ▫ This session will be led by Allan Campopiano from Deepnote
+
+- **🔋  9:30pm-10:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects 
+
+- **🕕 10:00am-10:30pm:** VSC One Platform to Rule them all 
+  - ▫ Productivity tips and tricks for Visual Studio Code
+  - ▫ This session will be led by Chris Buie 
+
+- **🔋  10:30pm-11:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects 
+
+- **🕕 11:00am-12:00pm:** Infrastructure as Code
+  - ▫ A technical discussion on the team's infrastructure as code strategy
+  - ▫ This session will be led by Stuart Morrison
+
+- **🥪 12:00pm-1:00pm:** Lunch 
+  - ▫ Lunch anywhere
+  - ▫ Needing one on one time, grab a colleague and go to lunch 
+
+- **🕕 1:00pm-2:00pm:** Modern Data Pipelines 
+  - ▫ London Real estate Data Pipeline as an example of a modern data pipeline
+  - ▫ This session will be led by Nick Elgueta
+
+- **🔋  2:00pm-3:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects   
+
+- **🕕 3:00pm-4:00pm:** Unlocking the Secrets of Reproducible ML
+  - ▫ A technical discussion on strategies for reproducible ML 
+  - ▫ This session will be led by Ivy Yun & Nick Elgueta
+
+- **🔋  4:00pm-5:00pm:** Break
+  - ▫ Team members can use this time to work on individual or group projects
+
+### Thursday
+
+- **🕕 8:30am-10:00am:** Mastering Time with Khronos: A Guide to Conquer Productivity 
+  - ▫ A technical discussion on strategies for project management and time management.
+  - ▫ This session will be led by Chris
+
+- **🕕 10:30am-11:30pm:** Llama vs Dolly, The Ungulates Race for the AGI Crown
+  - ▫ Can LLMs be viable alternatives to other NLP models?
+  - ▫ This session will be led by Chris
+
+- **🥪 11:30pm-1:00pm:** Lunch
+  - ▫ Lunch anywhere
+  - ▫ Needing one on one time, grab a colleague and go to lunch  
+
+- **🕕 1:00pm-2:00pm:** Disaster and Divine, Dialogue on the Art of Recovery 
+  - ▫ A discussion on the risk of failures and how to recover from them
+  - ▫ This session will be led by Jordan White
+
+- **🕕 3:00pm-5:00pm:** Chicken n' Pickle 
+  - ▫ Team building event at Chicken n' Pickle, *8400 N Oklahoma Ave, Oklahoma City, OK 73114*
+  - ▫ Let's see why pickleball is the fastest growing sport in America (allegedly 😏)
+  - ▫ Watch out for Slovacek, he's a ringer 
+
+### Friday
+
+- **🕕 8:00am-12:00pm:** Decompression
+  - ▫ Follow up on any outstanding items from the week
+  - ▫ Time dedicated to working on individual or group projects 
+
+- **🥪 12:00pm-1:00pm:** Lunch
+
+- 🎬 Its' a wrap!
+
+- ✈ Safe travels 🙏🙏🙏
+
+
+

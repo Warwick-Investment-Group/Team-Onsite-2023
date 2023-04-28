@@ -1,8 +1,9 @@
-# Team-Onsite-2023
+---
+title: "Team-On-Site-2023"
+---
 
 # Welcome to the Data Science Team Onsite!
-
-> > "Coming together is a beginning, staying together is progress, and working together is success." – Henry Ford
+> "Coming together is a beginning, staying together is progress, and working together is success." – Henry Ford
 
 
 ## Purpose of the Meeting
@@ -12,15 +13,15 @@ The purpose of this onsite meeting is to bring together the data science team fo
 - To share knowledge and skills related to data science and engineering
 - To review and provide feedback on each other's projects
 - To work on team building and collaboration skills
-- To discuss and debate Warwick Standards and Best Practices
+- To discuss and debate Warwick standards and best practices
 - To inspire and motivate each other
 
 We have an exciting agenda planned for the week, with a mix of technical training discussions, project reviews, and team building activities. We hope that this week will be a valuable and enjoyable experience for everyone on the team.
 
 ## Logistics
 
-The onsite meeting will take place from Monday to Friday, from 9:00am to 4:00pm each day. We will visit both Warwick locations throughout the week. However we will setup shop at 2802. We will not have full setups and recognize that the GIS team may need to retreat to 900 Wilshire. 
-We will be meeting in the large conference room on the 2th floor of our 2802 building.
+The onsite meeting will take place from Monday to Friday, from 8:00am to 5:00pm each day. We will visit both Warwick locations throughout the week. However we will setup shop at the 2802 location. We will not have full setups and recognize that the GIS team may need to retreat to 900 Wilshire. 
+We will be meeting in the large & small conference room on the 2th floor of our 2802 building.
 
 - Primary Location: 2802 W Country Club Dr, Oklahoma City, OK 73116
 - Secondary Location: 900 W Wilshire Blvd, Oklahoma City, OK 73116  
@@ -28,3 +29,4 @@ We will be meeting in the large conference room on the 2th floor of our 2802 bui
 Please make sure to bring any necessary materials or devices for the collaborative sessions and project reviews. I encourage you to actively participate in all activities and sessions, and to use this week as an opportunity to learn, collaborate, and have fun with your fellow team members.
 
 I look forward to seeing you on Monday!
+
