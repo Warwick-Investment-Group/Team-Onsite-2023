@@ -36,9 +36,7 @@ title: "Agenda"
   - ▫ This session will be a team effort, led by Stuart, Nick, & Michael H.
 
 - **🔋 4:00pm-5:00pm:** Break
-  - ▫ Each team member shares an overview of their current project and any challenges they are facing 
-  - ▫ The team provides feedback and suggestions for improvement
-
+  - ▫ Team members can use this time to work on individual or group projects 
 
 ### Tuesday
 
