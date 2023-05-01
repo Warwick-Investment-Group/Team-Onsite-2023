@@ -26,5 +26,229 @@
     "title": "Habits",
     "section": "Going to sleep",
     "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "index.html#purpose-of-the-meeting",
+    "href": "index.html#purpose-of-the-meeting",
+    "title": "Team-On-Site-2023",
+    "section": "",
+    "text": "The purpose of this onsite meeting is to bring together the data science team for a week of collaboration, learning, and team building. Our goals for the week are:\n\nTo share knowledge and skills related to data science and engineering\nTo review and provide feedback on each other’s projects\nTo work on team building and collaboration skills\nTo discuss and debate Warwick standards and best practices\nTo inspire and motivate each other\n\nWe have an exciting agenda planned for the week, with a mix of technical training discussions, project reviews, and team building activities. We hope that this week will be a valuable and enjoyable experience for everyone on the team."
+  },
+  {
+    "objectID": "index.html#logistics",
+    "href": "index.html#logistics",
+    "title": "Team-On-Site-2023",
+    "section": "",
+    "text": "The onsite meeting will take place from Monday to Friday, from 8:00am to 5:00pm each day. We will visit both Warwick locations throughout the week. However we will setup shop at the 2802 location. We will not have full setups and recognize that the GIS team may need to retreat to 900 Wilshire. We will be meeting in the large & small conference room on the 2th floor of our 2802 building.\n\nPrimary Location: 2802 W Country Club Dr, Oklahoma City, OK 73116\nSecondary Location: 900 W Wilshire Blvd, Oklahoma City, OK 73116\n\nPlease make sure to bring any necessary materials or devices for the collaborative sessions and project reviews. I encourage you to actively participate in all activities and sessions, and to use this week as an opportunity to learn, collaborate, and have fun with your fellow team members.\nI look forward to seeing you on Monday!"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#getting-up",
+    "href": "slides/dataAsAProduct.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#going-to-sleep",
+    "href": "slides/dataAsAProduct.html#going-to-sleep",
+    "title": "Data As A Product?",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#what-is-our-purpose",
+    "href": "slides/dataAsAProduct.html#what-is-our-purpose",
+    "title": "Data As A Product",
+    "section": "What is our purpose?",
+    "text": "What is our purpose?\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#should-data-be-a-service-or-a-product",
+    "href": "slides/dataAsAProduct.html#should-data-be-a-service-or-a-product",
+    "title": "Data As A Product?",
+    "section": "Should data be a service or a product?",
+    "text": "Should data be a service or a product?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#is-data-a-service-or-a-product",
+    "href": "slides/dataAsAProduct.html#is-data-a-service-or-a-product",
+    "title": "Data As A Product?",
+    "section": "Is data a service or a product?",
+    "text": "Is data a service or a product?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#it-depends",
+    "href": "slides/dataAsAProduct.html#it-depends",
+    "title": "Data As A Product?",
+    "section": "It depends…",
+    "text": "It depends…"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#to-answer-this-question-we-must-first-ask-ourselves-a-fundamental-question",
+    "href": "slides/dataAsAProduct.html#to-answer-this-question-we-must-first-ask-ourselves-a-fundamental-question",
+    "title": "Data As A Product?",
+    "section": "To answer this question, we must first ask ourselves a fundamental question:",
+    "text": "To answer this question, we must first ask ourselves a fundamental question:\n\nWhat is the purpose of data in our organization?\nWhat is the purpose of the Data Science team?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#the-data-science-teams-purpose-is-to",
+    "href": "slides/dataAsAProduct.html#the-data-science-teams-purpose-is-to",
+    "title": "Data As A Product?",
+    "section": "The Data Science team’s purpose is to…",
+    "text": "The Data Science team’s purpose is to…\n\nCreate value for the business by leveraging data & analytics to make better decisions."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#are-we-creating-value",
+    "href": "slides/dataAsAProduct.html#are-we-creating-value",
+    "title": "Data As A Product?",
+    "section": "Are we creating value?",
+    "text": "Are we creating value?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#how-do-we-know",
+    "href": "slides/dataAsAProduct.html#how-do-we-know",
+    "title": "Data As A Product?",
+    "section": "How do we know?",
+    "text": "How do we know?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#how-do-we-measure-it",
+    "href": "slides/dataAsAProduct.html#how-do-we-measure-it",
+    "title": "Data As A Product?",
+    "section": "How do we measure it?",
+    "text": "How do we measure it?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#to-answer-this-question-we-must-first-ask-ourselves-a-couple-fundamental-questions",
+    "href": "slides/dataAsAProduct.html#to-answer-this-question-we-must-first-ask-ourselves-a-couple-fundamental-questions",
+    "title": "Data As A Product?",
+    "section": "To answer this question, we must first ask ourselves a couple fundamental questions:",
+    "text": "To answer this question, we must first ask ourselves a couple fundamental questions:\n\nWhat is the purpose of data in our organization?\nWhat is the purpose of the Data Science team?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#is-there-a-better-way",
+    "href": "slides/dataAsAProduct.html#is-there-a-better-way",
+    "title": "Data As A Product?",
+    "section": "Is there a better way?",
+    "text": "Is there a better way?\n\nThe submit a ticket with a specific question and get a specific answer model is not optimal.\n\nThis service model doesn’t allow for the Data Science team to be proactive.\n\nWhat if we treated data as a product?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#product-minded-teams-are-winning-the-market-place.",
+    "href": "slides/dataAsAProduct.html#product-minded-teams-are-winning-the-market-place.",
+    "title": "Data As A Product?",
+    "section": "Product minded teams are winning the market place.",
+    "text": "Product minded teams are winning the market place.\n\nCentering the relationship between the product and the customer is the key to success.\nWhen we treat data as a product and our colleagues as customers, we can unlock the full potential of data science."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#what-is-the-data-product",
+    "href": "slides/dataAsAProduct.html#what-is-the-data-product",
+    "title": "Data As A Product?",
+    "section": "What is the data product?",
+    "text": "What is the data product?\n\nThe data product is the data, analytics and tools that are captured in the organizations.\nA simple heuristic for determining if something is a data product is to ask yourself, “Does this product have a customer?”\n\nIf the answer is yes, then it is a data product."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#ok-what-is-the-data-product",
+    "href": "slides/dataAsAProduct.html#ok-what-is-the-data-product",
+    "title": "Data As A Product?",
+    "section": "Ok, what is the data product?",
+    "text": "Ok, what is the data product?\n\nThe data product is the data, analytics and tools that are found in the organizations.\nA simple heuristic; Is this being used to make decisions?\n\nIf the answer is yes, then it is a data product."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#data-has-limited-value-in-its-own-silo.",
+    "href": "slides/dataAsAProduct.html#data-has-limited-value-in-its-own-silo.",
+    "title": "Data As A Product?",
+    "section": "Data has limited value in its own silo.",
+    "text": "Data has limited value in its own silo.\n\nIf integrated within the data product model, superlinear value can be created.\nThe team’s role expands to include guiding the strategy and features of the data product.\nConsequently, we can adopt best practices from product management."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#service-oriented-data-teams-are-less-effective.",
+    "href": "slides/dataAsAProduct.html#service-oriented-data-teams-are-less-effective.",
+    "title": "Data As A Product?",
+    "section": "Service-oriented data teams are less effective.",
+    "text": "Service-oriented data teams are less effective.\n\nThe submit a ticket with a specific question and get a specific answer model is not optimal.\n\nThis service model doesn’t allow for the Data Science team to be proactive.\n\nWhat if we treated data as a product?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#focus-on-the-customeruser.",
+    "href": "slides/dataAsAProduct.html#focus-on-the-customeruser.",
+    "title": "Data As A Product?",
+    "section": "Focus on the customer/user.",
+    "text": "Focus on the customer/user.\n\nA good product organization will center the users and their experience with the product.\nThis user focus means that much of the day-to-day of product management is coordination and communication between many different stakeholders.\nThere is the outbound communication of what is the vision and prioritization of the product, and the inbound communication from users."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#focus-on-the-customer.",
+    "href": "slides/dataAsAProduct.html#focus-on-the-customer.",
+    "title": "Data As A Product?",
+    "section": "#1 Focus on the customer.",
+    "text": "#1 Focus on the customer.\n\nA good product team will center the users and their experience with the product.\nThis means that much of the day-to-day of product management is coordination and communication between different stakeholders.\nThere is outbound communication of what is the vision and prioritization of the product, and inbound communication from users.\nThis requires empathy and a deep understanding of the customer."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#pro-tip-communicate-with-your-colleagues-users-proactively-and-hear-their-feedback",
+    "href": "slides/dataAsAProduct.html#pro-tip-communicate-with-your-colleagues-users-proactively-and-hear-their-feedback",
+    "title": "Data As A Product?",
+    "section": "Pro Tip: Communicate with your colleagues (users) proactively and hear their feedback!",
+    "text": "Pro Tip: Communicate with your colleagues (users) proactively and hear their feedback!"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#define-success",
+    "href": "slides/dataAsAProduct.html#define-success",
+    "title": "Data As A Product?",
+    "section": "#2 Define Success",
+    "text": "#2 Define Success\n\nSuccess is defined by the impact that the data product has on the business.\nMeasured in the number and volume of decisions you’re enabling\nMeasured by the quality of those decisions with respect to KPIs.\nIt is not the number of products built,i.e. it’s not the output of the DS Team."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#pro-tip-define-success-in-terms-of-the-impact-of-the-data-product-on-the-business.",
+    "href": "slides/dataAsAProduct.html#pro-tip-define-success-in-terms-of-the-impact-of-the-data-product-on-the-business.",
+    "title": "Data As A Product?",
+    "section": "Pro Tip: Define success in terms of the impact of the data product on the business.",
+    "text": "Pro Tip: Define success in terms of the impact of the data product on the business."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#talk-to-everyone",
+    "href": "slides/dataAsAProduct.html#talk-to-everyone",
+    "title": "Data As A Product?",
+    "section": "#3 Talk to everyone",
+    "text": "#3 Talk to everyone\n\nUsers Stories are a simple way to define how a new feature (dashboard, report, or metric) will provide value for the end user.\nThe user story is a simple sentence that follows the format:\n\nAs a [user], I want to [action], so that [outcome]."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#talk-to-everyone-and-document-everything",
+    "href": "slides/dataAsAProduct.html#talk-to-everyone-and-document-everything",
+    "title": "Data As A Product?",
+    "section": "#3 Talk to everyone and document everything!",
+    "text": "#3 Talk to everyone and document everything!\n\nUsers Stories are a simple way to define how a new feature (dashboard, report, or metric) will provide value for the end user.\nThe user story is a simple sentence that follows the format:\n\nAs a [user], I want to [action], so that [outcome]."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#pro-tip-use-user-stories-to-help-define-scope.",
+    "href": "slides/dataAsAProduct.html#pro-tip-use-user-stories-to-help-define-scope.",
+    "title": "Data As A Product?",
+    "section": "Pro Tip: Use user stories to help define scope.",
+    "text": "Pro Tip: Use user stories to help define scope."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#prioritize-ruthlessly.",
+    "href": "slides/dataAsAProduct.html#prioritize-ruthlessly.",
+    "title": "Data As A Product?",
+    "section": "#4 Prioritize ruthlessly.",
+    "text": "#4 Prioritize ruthlessly.\n\nPrioritize based on the impact of the feature on the business.\nImpact can be measured by the number of users, the frequency of use, and the impact on KPIs."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#pro-tip-prioritize-using-the-ice-framework.",
+    "href": "slides/dataAsAProduct.html#pro-tip-prioritize-using-the-ice-framework.",
+    "title": "Data As A Product?",
+    "section": "Pro Tip: Prioritize using the ICE framework.",
+    "text": "Pro Tip: Prioritize using the ICE framework.\n\nImpact: How much will this feature impact the business?\nConfidence: How confident are we can succeed?\nEase of implementation: How easy is it to implement?"
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#section",
+    "href": "slides/dataAsAProduct.html#section",
+    "title": "Data As A Product?",
+    "section": "",
+    "text": "As we use this week to make strategic decisions about the future of our team, let’s keep in mind that we are here to create value for the business.\nWe can use the product model to help us create more value for the business and our colleagues."
+  },
+  {
+    "objectID": "slides/dataAsAProduct.html#conclusion",
+    "href": "slides/dataAsAProduct.html#conclusion",
+    "title": "Data As A Product?",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nAs we use this week to make strategic decisions about the future of our team, let’s keep in mind that we are here to create value for the business.\nWe can use the product model to help us create more value for the business and our colleagues."
   }
 ]

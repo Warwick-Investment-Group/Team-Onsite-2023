@@ -1,0 +1,91 @@
+---
+title: "Data As A Product?"
+author: "Chris Buie"
+format: 
+    revealjs:
+        transition: slide
+        incremental: true
+
+---
+
+## Is data a service or a product?
+<center>
+![](https://i0.wp.com/strategicinstitute.org/wp-content/uploads/2017/02/monkey-think.jpeg?resize=768%2C460&ssl=1)
+</center>
+
+## It depends...
+
+## To answer this question, we must first ask ourselves a couple fundamental questions:
+
+- What is the purpose of data in our organization?
+- What is the purpose of the Data Science team?
+
+## The Data Science team's purpose is to...
+
+- **Create value** for the business by **leveraging data & analytics** to **make better decisions**. 
+
+## Are we creating value?
+
+## How do we know?
+
+## How do we measure it?
+
+## Service-oriented data teams are less effective.
+
+- The submit a ticket with a specific question and get a specific answer model is not optimal.
+  - This service model doesn't allow for the Data Science team to be proactive.
+- What if we treated data as a product?
+
+## Product minded teams are winning the market place.
+- Centering the relationship between the product and the customer is the key to success.
+- When we treat data as a product and our colleagues as customers, we can unlock the full potential of data science.
+
+## Ok, what is the data product?
+- The data product is the **data**, **analytics** and **tools** that are found in the organizations.
+- A simple heuristic; Is this being used to make decisions?
+  - If the answer is yes, then it is a data product.
+
+## Data has limited value in its own silo.
+- If integrated within the data product model, superlinear value can be created.
+- The team's role expands to include guiding the strategy and features of the data product.
+- Consequently, we can adopt best practices from product management.
+
+## #1 Focus on the customer.
+- A good product team will center the users and their experience with the product.
+- This means that much of the day-to-day of product management is **coordination and communication** between different stakeholders.
+- There is **outbound** communication of what is the vision and prioritization of the product, and **inbound** communication from users.
+- This requires **empathy** and a deep understanding of the customer.
+
+## Pro Tip: Communicate with your colleagues (users) proactively and hear their feedback!
+
+## #2 Define Success
+- Success is defined by the **impact** that the data product has on the business.
+- Measured in the number and volume of decisions you’re enabling
+- Measured by the quality of those decisions with respect to KPIs.
+- It is not the number of products built,i.e. it’s not the output of the DS Team.
+
+## Pro Tip: Define success in terms of the impact of the data product on the business.
+
+## #3 Talk to everyone and document everything!
+- Users Stories are a simple way to define how a new feature (dashboard, report, or metric) will provide value for the end user.
+- The user story is a simple sentence that follows the format:
+  - As a [user], I want to [action], so that [outcome].
+
+## Pro Tip: Use user stories to help define scope. 
+
+## #4 Prioritize ruthlessly.
+- Prioritize based on the impact of the feature on the business.
+- Impact can be measured by the number of users, the frequency of use, and the impact on KPIs.
+
+## Pro Tip: Prioritize using the ICE framework.
+- Impact: How much will this feature impact the business?
+- Confidence: How confident are we can succeed?
+- Ease of implementation: How easy is it to implement?
+
+## Conclusion
+
+- As we use this week to make strategic decisions about the future of our team, let's keep in mind that we are here to create value for the business. 
+
+- We can use the product model to help us create more value for the business and our colleagues.
+
+
